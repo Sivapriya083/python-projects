@@ -1,3 +1,5 @@
+# This is a program i created for understanding the basic concepts of a dictionary in python
+
 gradebook = {}
 
 no_entries = int(input("Enter the number of entries:"))
