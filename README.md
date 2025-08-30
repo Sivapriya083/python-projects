@@ -11,7 +11,7 @@ This repo contains all my practice files, mini-projects, and notes as I build a 
 -  Object-Oriented Programming (OOP)  
 -  File Handling & Exceptions  
 -  Modules & Packages  
--  Numpy, Pandas, Matplotlib (coming soon)  
+-  Numpy, Pandas, Matplotlib 
 
 ---
 
@@ -23,6 +23,6 @@ To master Python and apply it in **ROS2 robotics projects** (simulation, percept
 ## 🛠 How to Use  
 Clone this repo and run the scripts:  
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/<sivapriya083>/<python_projects>.git
 cd <your-repo>
 python3 filename.py
